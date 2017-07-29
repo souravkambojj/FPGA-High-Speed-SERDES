@@ -1,5 +1,5 @@
 # High-Speed-SERDES
-•	Developed FPGA based High Speed  SERDES  for Data Processing Unit 
+FPGA based High Speed  SERDES  for Data Processing Unit 
 
 The code of High Speed  SERDES was written in VHDL using ALTGX IP Cores and its
 Synthesis was done Atlera Stratix IV GX FPGA Development  kit  using Quartus II v14.0.
